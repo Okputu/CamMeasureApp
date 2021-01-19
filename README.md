@@ -1,3 +1,4 @@
 # CamMeasureApp
-CamMeasure is a figma template i will be converting to Website
 
+CamMeasureApp is a figma template for an app that makes accurate measure of any individual.
+This app will be converted to Website template.
